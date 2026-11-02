@@ -1,0 +1,19 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Oracle / SQL*Plus / SQL Developer artefacts
+*.log
+*.lst
+*.bak
+*.tmp
+afiedt.buf
+*.dmp
+*.trc
+
+# Keep the screenshots folder in git even when empty
+!screenshots/.gitkeep
